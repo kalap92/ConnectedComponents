@@ -5,8 +5,11 @@
   The problem is to compute connected components on a given graph:
 
   1) Every vertex has a value
+
   2) Every vertex sends its value to his neighbours
+
   3) If a vertex receives a min value which is lower then its value - its value is being replaced
+
   4) Second step is being repeated until no vertex changed its value
 
 ## PCAM metodhology
