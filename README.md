@@ -32,3 +32,7 @@ Stale value will be computed as a number of vertices that changed their values.
 ### Mapping
   
  Decomposition presented in "Partitioning" paragraph will be a consequence of a big computing problem. Because of that spark reduce by function min will be used to compute min value.
+
+## Results
+
+![](ConnectedComponents.PNG)
